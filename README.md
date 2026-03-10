@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Jakkireddy Eswar Reddy
 
-<!--
-**Eswereddy/Eswereddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | Java & Frontend Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- HTML
+- CSS
+- JavaScript
+- Java
+- TailwindCSS
+- Git & GitHub
+
+---
+
+## 📂 Projects
+🔹 Portfolio Website  
+Built using HTML, TailwindCSS and JavaScript.
+
+🔹 Frontend Web Projects  
+Responsive web interfaces and UI components.
+
+🔹 Java Programs  
+Core Java programs and problem-solving examples.
+
+---
+
+## 📚 Currently Learning
+- Full Stack Development
+- Cloud Computing
+- AI & Machine Learning
+
+---
+
+## 🌐 Connect With Me
+GitHub: https://github.com/Eswereddy  
+LinkedIn: https://www.linkedin.com/in/jakkireddy-eswarreddy-0341812a8
