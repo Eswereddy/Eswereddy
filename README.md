@@ -92,8 +92,7 @@ AI & ML Enthusiast • Full Stack Developer • Java Developer
 ### 📫 Connect With Me
 
 📧 **Email:** [jakkireddyeswarreddy@gmail.com](mailto:jakkireddyeswarreddy@gmail.com)  
-🔗 **LinkedIn:** [jakkireddy-eswarreddy-0341812a8](https://www.linkedin.com/in/jakkireddy-eswarreddy-0341812a8)
-
+🔗 **LinkedIn:** [https://www.linkedin.com/in/jakkireddy-eswar-reddy-0341812a8
 ---
 
 <h3 align="center">⭐ Building AI-Powered Solutions for Real-World Problems ⭐</h3>
