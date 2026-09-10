@@ -1,91 +1,87 @@
-<div align="center">👋 Hey, I'm Eswar Reddy
+<div align="center"><img src="./assets/banner.svg" width="100%" alt="Eswar Reddy - AI & Full Stack Developer"/>👋 Hi, I'm Eswar Reddy
 
-AI & Full Stack Developer | B.Tech CSE Student | Builder 🌱
+AI & Full Stack Developer • B.Tech CSE • Builder 🌱
 
-I build practical software at the intersection of AI, full-stack development, and real-world problems.
+I build AI-powered and full-stack applications that solve practical problems.
+
+Currently building Agri AI Connect, while strengthening my skills in Java, Spring Boot, DSA, Generative AI, and AWS.
 
 <p>
-  <a href="https://github.com/Eswereddy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jakkireddy-eswarreddy-0341812a8">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://eswar-reddy-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://huggingface.co/spaces/jakkireddyeswar/eswar">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  </a>
-</p><img src="https://komarev.com/ghpvc/?username=Eswereddy&style=flat-square&color=blueviolet" /></div>---
+<a href="https://github.com/Eswereddy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/jakkireddy-eswarreddy-0341812a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://eswar-reddy-portfolio.onrender.com/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://huggingface.co/spaces/jakkireddyeswar/eswar">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a>
+</p><img src="https://komarev.com/ghpvc/?username=Eswereddy&style=flat-square&color=blueviolet"/></div>---
 
-🚀 About Me
+🧑‍💻 About Me
 
-I'm a B.Tech Computer Science student at GPCET, Kurnool, focused on becoming a strong software engineer who can build complete products, not just isolated projects.
+I'm a Computer Science student at GPCET, Kurnool, interested in building software across AI, backend engineering, and full-stack development.
 
-My current focus is:
+Currently
 
-- 🌾 Building Agri AI Connect Ecosystem
-- ☕ Strengthening Java & Spring Boot
-- 🧠 Learning Advanced DSA & Generative AI
-- ☁️ Exploring AWS & Cloud Architecture
-- 💻 Solving LeetCode problems consistently
-- 🚀 Turning ideas into working applications
+🌾 Building Agri AI Connect Ecosystem
+☕ Developing with Java & Spring Boot
+🧠 Preparing DSA & LeetCode
+🤖 Exploring Generative AI & Machine Learning
+☁️ Learning AWS & Cloud Architecture
 
-const eswar = {
-    role: "AI & Full Stack Developer",
-    education: "B.Tech CSE @ GPCET",
-    languages: ["Java", "Python", "JavaScript"],
-    frontend: ["React", "HTML", "CSS", "TailwindCSS"],
-    backend: ["Spring Boot", "Node.js", "Express.js"],
-    databases: ["MySQL", "MongoDB"],
-    cloud: ["AWS"],
-    interests: ["AI/ML", "Generative AI", "Cloud", "DSA"],
-    building: "Agri AI Connect Ecosystem 🌾",
-    goal: "Become a strong Software Engineer"
-};
+My goal is simple:
+
+«Become an engineer who can take an idea from problem → architecture → code → deployment.»
 
 ---
 
-🌾 What I'm Building
+🌾 Featured Project
 
 Agri AI Connect Ecosystem
 
-«Connecting farmers, suppliers, and equipment providers through AI-powered technology.»
+AI-powered agricultural technology platform
 
-A platform designed to address real problems in the agricultural supply chain by bringing different stakeholders together in one ecosystem.
+Agri AI Connect aims to connect:
 
-Focus: AI/ML • Full Stack • Cloud • Real-world problem solving
+           FARMERS
+              │
+              ▼
+       ┌───────────────┐
+       │  AGRI AI      │
+       │   CONNECT     │
+       └───────────────┘
+          │     │     │
+          ▼     ▼     ▼
+      Suppliers  Equipment  Services
+
+The Problem
+
+Farmers often deal with fragmented information, suppliers, equipment providers, and agricultural services.
+
+The Idea
+
+Build one intelligent ecosystem that helps connect these stakeholders through AI-driven recommendations, information, and digital services.
+
+Focus
+
+"AI/ML" "Python" "Full Stack" "Cloud" "Real-World Problem Solving"
 
 ---
 
-🎓 Student Management System
+🚀 Other Projects
 
-A role-based academic management platform designed for:
+Project| What it does| Technology
+🎓 Student Management System| Role-based platform for students, faculty & administrators| Java • Spring Boot • MySQL
+📊 Student Performance Prediction| Predicts academic performance using historical data| Python • Pandas • Scikit-learn
+🌐 Developer Portfolio| Personal portfolio and project showcase| HTML • TailwindCSS • JavaScript
 
-- 👨‍🎓 Students
-- 👨‍🏫 Faculty
-- 🛠️ Administrators
+🌐 Portfolio
 
-Tech: Java • Spring Boot • MySQL
-
----
-
-📊 Student Performance Prediction
-
-A machine-learning project that analyzes historical academic data and predicts student performance.
-
-Tech: Python • Pandas • Scikit-learn • Machine Learning
-
----
-
-🌐 Developer Portfolio
-
-My personal portfolio showcasing my projects, technical skills, and development journey.
-
-Tech: HTML • TailwindCSS • JavaScript
-
-🔗 Live: https://eswar-reddy-portfolio.onrender.com/
+Live: https://eswar-reddy-portfolio.onrender.com/
 
 ---
 
@@ -94,87 +90,80 @@ Tech: HTML • TailwindCSS • JavaScript
 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript"/>
 </p>Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
 </p>Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
 </p>Database & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws"/>
 </p>Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>---
 
-🧠 Currently Learning
+🧠 Areas I'm Working On
 
-DSA & Problem Solving       █████████░░
-Java & Spring Boot          █████████░░
-AWS & Cloud Architecture    ███████░░░░
-Generative AI               ███████░░░░
-System Design               █████░░░░░░
-
-My goal isn't to simply collect technologies.
-
-I want to understand how they work together to build reliable software.
+Java / Spring Boot       Backend Engineering
+DSA                      Problem Solving
+Generative AI            AI Applications
+AWS                      Cloud & Deployment
+Machine Learning         Intelligent Systems
+System Design            Scalable Architecture
 
 ---
 
-🏆 Certifications & Learning
+🏆 Certifications
 
-- 🏅 AWS Academy Data Engineering
-- 🤖 Google Generative AI
-- 🧠 Cisco AI Foundations
-- 💻 Full Stack Development
-- ☕ Java Programming
-- 📚 NPTEL Certifications
-
----
-
-📈 GitHub
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eswereddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Eswereddy&theme=tokyonight&hide_border=true" height="165"/></div><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eswereddy&layout=compact&theme=tokyonight&hide_border=true" height="165"/><img src="https://github-profile-trophy.vercel.app/?username=Eswereddy&theme=tokyonight&no-frame=true&row=1&column=4" height="165"/></div><img src="https://github-readme-activity-graph.vercel.app/graph?username=Eswereddy&theme=tokyo-night&hide_border=true" width="100%"/>---
-
-🎯 2026 Mission
-
-🌾 Launch Agri AI Connect MVP
-🧠 Solve 500+ LeetCode problems
-☁️ Earn additional AWS certifications
-🌍 Contribute to open source
-📄 Explore & publish AI research
-💼 Secure a software engineering internship
+- AWS Academy Data Engineering
+- Google Generative AI
+- Cisco AI Foundations
+- Full Stack Development
+- Java Programming
+- NPTEL Certifications
 
 ---
 
-💡 My Approach
+📊 GitHub Activity
 
-«Learn → Build → Break → Debug → Improve → Ship»
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eswereddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Eswereddy&theme=tokyonight&hide_border=true" height="170"/></div><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eswereddy&layout=compact&theme=tokyonight&hide_border=true" height="170"/></div>---
 
-I don't want to spend months making projects that only look good in a README.
+🎯 2026 Goals
 
-I want to build things that work, solve problems, and teach me something new.
+- [ ] 🚀 Launch Agri AI Connect MVP
+- [ ] 🧠 Solve 500+ LeetCode problems
+- [ ] ☁️ Earn additional AWS certifications
+- [ ] 🌍 Make meaningful open-source contributions
+- [ ] 🤖 Explore AI research
+- [ ] 💼 Secure a Software Engineering Internship
 
 ---
 
-<div align="center">🤝 Let's Build Something Useful
+📌 What I'm Looking For
 
-I'm open to:
+I'm interested in opportunities involving:
 
-Software Engineering Internships • AI Projects • Open Source • Collaborations
+Software Engineering • Backend Development • Full Stack • AI/ML • Generative AI • Cloud
 
-<br><a href="https://www.linkedin.com/in/jakkireddy-eswarreddy-0341812a">
-  <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+I'm especially interested in projects where I can learn quickly, build real systems, and solve meaningful technical problems.
+
+---
+
+<div align="center">Let's Connect 🤝
+
+<a href="https://www.linkedin.com/in/jakkireddy-eswarreddy-0341812a">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://eswar-reddy-portfolio.onrender.com/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a><br><br>
 
-⭐ If you find something interesting here, consider starring a repository.
-
-<br><i>"Build things that solve real problems."</i>
+Build → Learn → Ship → Improve
 
 </div>
