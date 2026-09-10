@@ -1,8 +1,5 @@
-<h1 align="center">Hey, I'm Eswar 👋</h1>
-<h3 align="center">Turning agriculture + AI into working products, one commit at a time 🌾🤖</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2800&pause=900&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student+%40+GPCET%2C+Kurnool;Building+the+Agri+AI+Connect+Ecosystem;Java+%2B+Python+%2B+Full+Stack+Developer;Turning+ideas+into+deployed+products;Always+shipping+%E2%80%94+always+learning" alt="Typing SVG" />
+  <img src="./assets/banner.svg" alt="Eswar - AI & Full Stack Developer, Creator of Agri AI Connect Ecosystem" width="100%" />
 </p>
 
 <p align="center">
@@ -15,6 +12,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Eswereddy&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
+
+<img src="./assets/divider.svg" width="100%" height="6"/>
 
 ---
 
