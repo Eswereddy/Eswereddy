@@ -1,98 +1,133 @@
-<h1 align="center">🚀 JAKKIREDDY ESWAR REDDY</h1>
-
-<h3 align="center">
-AI & ML Enthusiast • Full Stack Developer • Java Developer
-</h3>
-
-<h4 align="center">
-🌾 Creator of Agri AI Connect Ecosystem
-</h4>
+<h1 align="center">Hey, I'm Eswar 👋</h1>
+<h3 align="center">Turning agriculture + AI into working products, one commit at a time 🌾🤖</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Java+Developer;AWS+Cloud+Learner;Building+Agri+AI+Connect+Ecosystem;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2800&pause=900&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student+%40+GPCET%2C+Kurnool;Building+the+Agri+AI+Connect+Ecosystem;Java+%2B+Python+%2B+Full+Stack+Developer;Turning+ideas+into+deployed+products;Always+shipping+%E2%80%94+always+learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<a href="https://github.com/Eswereddy">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/jakkireddy-eswarreddy-0341812a8">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://eswar-reddy-portfolio.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+  <a href="https://github.com/Eswereddy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jakkireddy-eswarreddy-0341812a8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://eswar-reddy-portfolio.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://huggingface.co/spaces/jakkireddyeswar/eswar"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Eswereddy&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🌱 The short version
 
-🎓 **B.Tech Computer Science & Engineering Student** at GPCET, Kurnool.
+I'm a CS student who got tired of AI projects that never left the notebook — so I started building ones that actually run in production. Right now that means **Agri AI Connect Ecosystem**, a platform trying to close the gap between farmers, suppliers, and equipment providers using AI. Outside of that, I'm deep in Java, Spring Boot, and the AWS ecosystem, and slowly working my way through 500 LeetCode problems.
 
-💡 **Passionate about:** Artificial Intelligence, Machine Learning, Full Stack Development, Cloud Computing, and Data Analytics.
-
-🌱 **Currently Building:** Agri AI Connect Ecosystem.
-
-🎯 **Mission:** Building technology solutions that create real-world impact.
-
----
-
-### 🛠️ Technology Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Programming** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs) ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express) ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot) |
-| **DB & Cloud** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws) |
+```text
+const eswar = {
+    role: "B.Tech CSE Student @ GPCET, Kurnool",
+    stack: ["Java", "Python", "JavaScript", "React", "Spring Boot", "AWS"],
+    currentlyBuilding: "Agri AI Connect Ecosystem 🌾",
+    currentlyLearning: ["Cloud Architecture", "Advanced DSA", "Generative AI"],
+    funFact: "I'd rather ship a rough MVP than perfect a slide deck"
+};
+```
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 What I'm building
 
-* **🌾 Agri AI Connect Ecosystem:** AI-powered agriculture platform for farmers, suppliers, and equipment providers.
-* **🎓 Student Management System:** Role-based academic management platform.
-* **🌐 Personal Portfolio Website:** Professional developer portfolio.
-* **📊 Student Performance Prediction:** Machine Learning project using Python.
-* **☕ Java Spring Boot Projects:** Backend development projects using Java.
+<table>
+<tr>
+<td width="50%">
+
+**🌾 Agri AI Connect Ecosystem**
+AI-powered platform connecting farmers, suppliers & equipment providers to cut out inefficiency in the agri supply chain.
+`Python` `AI/ML` `Full Stack`
+
+</td>
+<td width="50%">
+
+**🎓 Student Management System**
+Role-based academic management platform for students, faculty, and admins.
+`Java` `Spring Boot` `MySQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📊 Student Performance Prediction**
+ML model that predicts academic performance from historical data.
+`Python` `Scikit-learn` `Pandas`
+
+</td>
+<td width="50%">
+
+**🌐 Developer Portfolio**
+Live, deployed portfolio site — [see it here](https://eswar-reddy-portfolio.onrender.com/).
+`HTML` `TailwindCSS` `JavaScript`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech I work with
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ---
 
 ### 🏆 Certifications
 
-🏅 AWS Academy Data Engineering  
-🏅 Google Generative AI  
-🏅 Cisco AI Foundations  
-🏅 Full Stack Development  
-🏅 Java Programming  
-🏅 NPTEL Certifications
+🏅 AWS Academy Data Engineering &nbsp;•&nbsp; 🏅 Google Generative AI &nbsp;•&nbsp; 🏅 Cisco AI Foundations
+🏅 Full Stack Development &nbsp;•&nbsp; 🏅 Java Programming &nbsp;•&nbsp; 🏅 NPTEL Certifications
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Eswereddy&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eswereddy&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eswereddy&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eswereddy&theme=tokyonight" height="165"/>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eswereddy&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eswereddy&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Eswereddy&theme=tokyonight&no-frame=true&row=1&column=4" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eswereddy&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
 
 ### 🎯 2026 Goals
-✅ Launch Agri AI Connect MVP | ✅ Solve 500+ LeetCode Problems  
-✅ Earn AWS Certifications | ✅ Contribute to Open Source  
-✅ Publish AI Research | ✅ Secure Software Engineering Internship
+
+- [ ] Launch Agri AI Connect MVP
+- [ ] Solve 500+ LeetCode problems
+- [ ] Earn additional AWS certifications
+- [ ] Contribute to open source
+- [ ] Publish AI research
+- [ ] Secure a software engineering internship
 
 ---
 
-### 📫 Connect With Me
+<p align="center">
+  💬 <i>Building isn't a phase for me — it's the whole point.</i>
+</p>
 
-📧 **Email:** [jakkireddyeswarreddy@gmail.com](mailto:jakkireddyeswarreddy@gmail.com)  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/jakkireddy-eswar-reddy-0341812a8
----
-
-<h3 align="center">⭐ Building AI-Powered Solutions for Real-World Problems ⭐</h3>
+<p align="center">⭐ Open to internships, collaborations, and interesting problems — let's connect ⭐</p>
