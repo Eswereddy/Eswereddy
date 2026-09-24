@@ -189,7 +189,7 @@ Open Source Collaboration
 
 📫 Let's Connect
 
-<div align="center"><a href="https://www.linkedin.com/in/jakkireddy-eswarreddy-0341812a">
+<div align="center"><a href="https://www.linkedin.com/in/jakkireddy-eswar-reddy-0341812a8">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><a href="https://eswar-reddy-portfolio.onrender.com/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
